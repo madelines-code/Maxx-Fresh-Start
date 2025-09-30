@@ -11,10 +11,10 @@ const Podcasts = () => {
       
         <div className='whiteBox'>
   <p>Brought to you by my only sponsor, Bitcoin.</p>
-  <br/>
+
 
 <p>If you enjoy my work and wish to contribute your gifts will be greatly appreciated 🤙</p>
-<br/>
+
 <div className="greenBox">
 <p className='paragraph'><strong>Bitcoin Address: &nbsp; </strong>bc1qkecy0jy9zef5p95ncqnfu0ahn0mtjr8vw5k40t</p>
 </div>
